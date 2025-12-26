@@ -7,30 +7,6 @@
 ## About the Book
 _"The Art of Integration"_ is the perfect book for integrals. “The Art of Integration” takes the readers on a journey from first principles of mathematical integrals to advanced techniques useful in competitions. It focuses on building intuition. This book aims to bridge the gap between routine school methods and deeper mathematical understanding. Whether you are encountering integration for the first time or looking to strengthen your mastery, this book helps you to see integration as an art. A **paperback** and **PDF** version are available
 
-## Get the Book
-
-- **Gumroad PDF:**
-PDF version available for only _$4.99_
-  👉 *https://raghvendra3.gumroad.com/l/saqaq?_gl=1*lgebvq*_ga*MTQ4OTAyNjEwOC4xNzY2NDgxNTUw*_ga_6LJN6D94N6*czE3NjY3MzA3NDckbzkkZzEkdDE3NjY3MzA5MzkkajYwJGwwJGgw*
-
-- **Amazon Paperback:**
-  👉 *https://www.amazon.com/dp/B0GCHJN1CJ*
-Paperback printed version available for only _$9.99_
-
-## Community & Support
-- 💬 **Discord Server :**
-Join the discord server for mathematical discussion and questions for the author
-  👉 **
-
-## Free Specimen Preview
-
-A **watermarked specimen preview** (First 30 pages)
-is provided for evaluation purposes only. 
-
- **Download the specimen:**  
-
-Note: This specimen is NOT for redistribution or resale
-
 ##  Chapters Covered
 
 - Foundational Integration (Basic Rules)
@@ -48,6 +24,27 @@ Note: This specimen is NOT for redistribution or resale
   - Glasser’s Integral
   - Special Functions (Riemann Zeta, Dirichlet Eta/Beta)
 - List of Known Integrals & Formulae
+## Free Specimen Preview
+
+A **watermarked specimen preview** (First 30 pages)
+is provided for evaluation purposes only. 
+
+Note: This specimen is NOT for redistribution or resale
+
+## Get the Book
+
+- **Gumroad PDF:**
+PDF version available for only _$4.99_:
+  👉 *https://raghvendra3.gumroad.com/l/saqaq*
+- **Amazon Paperback:**
+  👉 *https://www.amazon.com/dp/B0GCHJN1CJ*
+Paperback printed version available for only _$9.99_:
+
+## Community & Support
+- 💬 **Discord Server :**
+Join the discord server for mathematical discussion and questions for the author:
+  👉 *https://discord.gg/zarHtuWz*
+
 
 ## © Copyright
 
