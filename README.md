@@ -24,6 +24,7 @@ _"The Art of Integration"_ is the perfect book for integrals. “The Art of Inte
   - Glasser’s Integral
   - Special Functions (Riemann Zeta, Dirichlet Eta/Beta)
 - List of Known Integrals & Formulae
+_Very useful in competitions like MIT Integration Bee, CMU-Q, UKIB and SPIB_
 ## Free Specimen Preview
 
 A **watermarked specimen preview** (First 30 pages)
