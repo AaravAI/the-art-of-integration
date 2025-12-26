@@ -1,2 +1,60 @@
-# the-art-of-integration
-"The Art of Integration" is the perfect book for integrals. It touches on advanced integration techniques for people to broaden their knowledge, and basic intuitive techniques for beginners, allowing people to perceive integration as an art. A pdf and paperback version will be provided, along with an invitation to a discord server for discussion.
+# The Art of Integration
+
+**Author:** Aarav Gandewar  
+**First Edition:** 2025  
+**Number of Pages:** 143
+
+## About the Book
+_"The Art of Integration"_ is the perfect book for integrals. “The Art of Integration” takes the readers on a journey from first principles of mathematical integrals to advanced techniques useful in competitions. It focuses on building intuition. This book aims to bridge the gap between routine school methods and deeper mathematical understanding. Whether you are encountering integration for the first time or looking to strengthen your mastery, this book helps you to see integration as an art. A **paperback** and **PDF** version are available
+
+## Get the Book
+
+- **Gumroad PDF:**
+PDF version available for only _$4.99_
+  👉 *https://raghvendra3.gumroad.com/l/saqaq?_gl=1*lgebvq*_ga*MTQ4OTAyNjEwOC4xNzY2NDgxNTUw*_ga_6LJN6D94N6*czE3NjY3MzA3NDckbzkkZzEkdDE3NjY3MzA5MzkkajYwJGwwJGgw*
+
+- **Amazon Paperback:**
+  👉 *https://www.amazon.com/dp/B0GCHJN1CJ*
+Paperback printed version available for only _$9.99_
+
+## Community & Support
+- 💬 **Discord Server :**
+Join the discord server for mathematical discussion and questions for the author
+  👉 **
+
+## Free Specimen Preview
+
+A **watermarked specimen preview** (First 30 pages)
+is provided for evaluation purposes only. 
+
+ **Download the specimen:**  
+
+Note: This specimen is NOT for redistribution or resale
+
+##  Chapters Covered
+
+- Foundational Integration (Basic Rules)
+- Basic Techniques: Substitution, Integration by Parts, Even/Odd Integrals, King’s Property
+- Trigonometric Integration: Trigonometric & Weierstrass Substitution, Hyperbolic Integrals
+- Improper Integrals: Comparison Tests, P-Test, Dirichlet’s Test
+- Advanced Integration (I & II):
+  - Binomial Differentials
+  - Gamma & Beta Functions
+  - Frullani’s Integral
+  - Gaussian Identities
+  - Euler Substitution
+  - Series Expansion
+  - Feynman’s Trick (Differentiation under the Integral Sign)
+  - Glasser’s Integral
+  - Special Functions (Riemann Zeta, Dirichlet Eta/Beta)
+- List of Known Integrals & Formulae
+
+## © Copyright
+
+Copyright © 2025 **Aarav Gandewar**  
+All rights reserved.
+
+No part of this book may be reproduced, distributed, or transmitted in any
+form without prior written permission from the author, except for brief
+quotations used in reviews or academic commentary.
+
