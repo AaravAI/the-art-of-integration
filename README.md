@@ -31,7 +31,7 @@ _"The Art of Integration"_ is the perfect book for integrals. “The Art of Inte
 A **watermarked specimen preview** (First 30 pages)
 is provided for evaluation purposes only:  **[Download the specimen PDF](The_Art_of_Integration_SPECIMEN.pdf)**
 
-**Note: This specimen is NOT for redistribution or resale**
+**Note: This specimen is NOT for redistribution or resale. To download, click the link above, and click _Download raw file_**
 
 ## Get the Book
 
