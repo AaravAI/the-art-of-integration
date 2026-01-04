@@ -47,7 +47,7 @@ Paperback printed version available for only _$9.99_:
 ## Community & Support
 - 💬 **Discord Server :**
 Join the discord server for mathematical discussion and questions for the author:
-  👉 *[https://discord.gg/zarHtuWz](https://discord.gg/zarHtuWz)*
+  👉 *https://discord.gg/s8yQqFJ4f*
 
 
 ## © Copyright
