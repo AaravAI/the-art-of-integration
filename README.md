@@ -38,7 +38,7 @@ is provided for evaluation purposes only:  **➡️ **[Download the specimen PDF
 
 - **Gumroad PDF:**
 PDF version available for only _$4.99_:
-  👉 *[[https://raghvendra3.gumroad.com/l/saqaq](https://aaravgandewar.gumroad.com/l/saqaq)]()*
+  👉 *[https://raghvendra3.gumroad.com/l/saqaq](https://aaravgandewar.gumroad.com/l/saqaq)]*
 - **Amazon Paperback:**
 Paperback printed version available for only _$9.99_:
   👉 *https://www.amazon.com/dp/B0GCHJN1CJ*
